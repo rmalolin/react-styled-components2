@@ -26,7 +26,7 @@ export const homeObjTwo = {
   headLine: "Lead Generation Specialist for Online Businesses",
   subtitle:
     "We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.",
-  img: require("../../Images/profile.jpg").default,
+  img: require("../../Images/svg-7.svg").default,
   alt: "Image",
 };
 
